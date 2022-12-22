@@ -10,7 +10,7 @@
 # [Процессы](docs/process.md)
 
 
-# [Команда](docs/teem.md)
+# [Команда](docs/team.md)
 
 
 
